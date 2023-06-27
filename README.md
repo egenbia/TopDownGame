@@ -1,2 +1,2 @@
-# TopDownGame
-Jogo TopDown de movimentação com sprite
+# game-jquery
+Um jogo feito usando jquery
